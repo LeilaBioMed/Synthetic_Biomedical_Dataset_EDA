@@ -47,15 +47,15 @@ The goal is to explore potential associations between **HbA1c** (glycated hemogl
 ### 1) Descriptive Statistics
 | Metric | HbA1c | BP_systolic |
 |--------:|:-------:|:-------------:|
-| **Mean** | ~6.2 | ~130 |
-| **Std Dev** | ~0.7 | ~15 |
-| **Min–Max** | 4.5 – 9.5 | 90 – 180 |
-| **Correlation (r)** | **≈ 0.30** | Positive correlation |
+| **Mean** | ~6.0 | ~121 |
+| **Std Dev** | ~0.7 | ~16 |
+| **Min–Max** | 4.5 – 8.2 | 67 – 180 |
+| **Correlation (r)** | **≈ 0.32** | Positive correlation |
 
 ### 2) Distribution Insights
-- **HbA1c:** Slight right-skew; ~25% diabetic (>6.5%).  
-- **BP_systolic:** Centered ~130 mmHg, mild right-skew.  
-- Moderate correlation observed (r ≈ 0.3).  
+- **HbA1c:** Slight right-skew; ~22% diabetic (>6.5%).  
+- **BP_systolic:** Centered ~125 mmHg, mild right-skew.  
+- Moderate correlation observed (r ≈ 0.32).  
 
 ### 3) Biomedical Categorization
 
@@ -67,9 +67,9 @@ The goal is to explore potential associations between **HbA1c** (glycated hemogl
 ### 4) Category Counts
 | Category | HbA1c (%) | BP_systolic (%) |
 |-----------|:----------:|:----------------:|
-| Normal | ~35% | ~25% |
-| Prediabetes / Elevated | ~40% | ~30% |
-| Diabetes / Hypertension | ~25% | ~45% |
+| Normal | ~36% | ~47% |
+| Prediabetes / Elevated | ~42% | ~25% |
+| Diabetes / Hypertension | ~22% | ~28% |
 
 ### 5) Cross-Tabulation
 
