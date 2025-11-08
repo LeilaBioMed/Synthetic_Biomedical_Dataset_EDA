@@ -128,6 +128,6 @@ leila.gerayeli@gmail.com
 
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/biomedical-eda.git
+git clone https://github.com/LeilaBioMed/Synthetic_Biomedical_Dataset_EDA.git
 cd biomedical-eda
 
