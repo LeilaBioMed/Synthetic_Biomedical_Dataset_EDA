@@ -35,10 +35,11 @@ The goal is to explore potential associations between **HbA1c** (glycated hemogl
 ## Technologies Used
 
 - **Python 3.x**
-- **NumPy** — numerical computation  
-- **Pandas** — data manipulation  
-- **Matplotlib & Seaborn** — data visualization  
-- **Jupyter Notebook** — development environment  
+- **Jupyter Notebook**
+- **Libraries:**
+  - `pandas` — Data manipulation  
+  - `numpy` — Numerical computation  
+  - `matplotlib` & `seaborn` — Data visualization 
 
 ---
 
