@@ -108,7 +108,6 @@ Key plots generated:
 - Add additional biomarkers (e.g., **BMI**, **cholesterol**, **age**).  
 - Perform **multivariate regression** to predict BP from HbA1c and other features.  
 - Apply **feature scaling** and **PCA** for dimensionality reduction.  
-- Deploy a **streamlit dashboard** for interactive exploration.
 
 ---
 
