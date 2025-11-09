@@ -54,8 +54,8 @@ The goal is to explore potential associations between **HbA1c** (glycated hemogl
 | **Correlation (r)** | **≈ 0.32** | Positive correlation |
 
 ### 2) Distribution Insights
-- **HbA1c:** Slight right-skew; ~22% diabetic (>6.5%).  
-- **BP_systolic:** Centered ~125 mmHg, mild right-skew.  
+- **HbA1c:** Slight right-skewed; ~22% diabetic (>6.5%).  
+- **BP_systolic:** Centered ~125 mmHg, mild right-skewed.  
 - Moderate correlation observed (r ≈ 0.32).  
 
 ### 3) Biomedical Categorization
